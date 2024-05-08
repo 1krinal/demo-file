@@ -1,3 +1,7 @@
+https://upgradeinfotech.slack.com/archives/D06T7QE3XJS/p1715139785914079
+
+
+
 
 print("------ALL INSTALLED SOFTWERE'S LIST------")
 
